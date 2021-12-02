@@ -1,8 +1,9 @@
 include ':android5'
-include ':anroid6'
+include ':android6'
 include ':android7'
 include ':android8'
 include ':android9'
 include ':android10'
 include ':android11'
+include ':android12'
 rootProject.name = "Android_Source"
